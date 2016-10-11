@@ -10,7 +10,7 @@ h1 {
 p.intro {
   font-family: avenir;
   text-align: center;
-  font-size: 20px;
+  font-size: 30px;
   font-style: italic;
   color: #D8DCE6;
   margin-top: -70px;
@@ -18,10 +18,25 @@ p.intro {
 p.description {
   font-family: avenir;
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
   font-style: italic;
   color: #D8DCE6;
   margin-top: -70px;
+    margin-left: 40 px;
+    margin-right: -40 px;
+    border: none;
+}
+p.food {
+  font-family: avenir;
+  text-align: center;  
+  font-size: 25px;
+  font-style: italic;
+  color: #D8DCE6;
+  margin-top: 0;
+    background: none;
+    margin-left: 40 px;
+    margin-right: -40 px;
+   border: none;
 }
 ul {
   font-family: avenir next;
@@ -74,4 +89,7 @@ a:hover {
 }
 a:active {
   color: 84BDCF;
+}
+background {
+    background-color: floralwhite;
 }
